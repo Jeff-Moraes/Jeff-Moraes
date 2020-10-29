@@ -7,9 +7,8 @@
 Enthusiast of the best web development technologies 🚀 and passionate to build great<br/> 
 visually and interactive interfaces 🖥 focused on performance and user experiences.<br/>
 <br/>
-<br/>
-Let's connect 💬 I’m always interested in meeting people, sharing knowledge<br/>
-and discovering new challenging opportunities.
+Let's connect 💬 I’m always interested in meeting people, sharing knowledge and discovering<br/>
+new challenging opportunities. ✉️ Reach me sending a message in any of the badges above.
 <br/>
 <br/>
 ![Jeff-Moraes's github stats](https://github-readme-stats.vercel.app/api?username=Jeff-Moraes&show_icons=true&theme=dracula). 
