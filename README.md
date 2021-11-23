@@ -11,7 +11,4 @@ Let's connect 💬 I’m always interested in meeting people, sharing knowledge 
 new challenging opportunities. ✉️ Reach me sending a message in any of the badges above.
 <br/>
 <br/>
-![Jeff-Moraes's github stats](https://github-readme-stats.vercel.app/api?username=Jeff-Moraes&show_icons=true&theme=dracula). 
-<br/>
-<br/>
 **▽ Check out some of my last projects below ▽**
